@@ -1,0 +1,504 @@
+.detbl
+{
+direction:ltr; border-spacing:0px;
+border-collapse: collapse;
+border: 0px none black;
+}
+.de_list
+{
+margin: 0;padding: 0;
+}
+div.p
+{
+margin-top:0px;
+margin-bottom:0px;
+font-weight:normal;
+}
+
+div.description_on_page div.p,
+ div.description_on_page div.p a,
+ .m-pageContent__side__header div.p,
+ .m-pageContent__side__header div.p a,
+ .m-pageContent__side__footer div.p,
+ .m-pageContent__side__footer div.p a,
+ .m-pageContent__side__right div.p,
+ .m-pageContent__side__right div.p a,
+ .m-pageContent__side__left div.p,
+ .m-pageContent__side__left div.p a
+{
+font-family:"Arial";
+font-size: 11pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+h1
+{
+font-family:"Arial";
+font-size: 13pt;color:#3741c8;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+h2
+{
+font-family:"Arial";
+font-size: 13pt;color:#0194f5;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+display:inline;
+margin:0;
+padding:0;
+}
+span.code
+{
+font-family:"Courier New";
+font-size: 11pt;color:#000000;
+font-style:normal;
+text-decoration:none;
+font-weight:normal;
+}
+span.quote
+{
+font-family:"Georgia";
+font-size: 11pt;color:#000000;
+font-style:italic;
+text-decoration:none;
+font-weight:normal;
+}
+span.h3
+{
+font-family:"Arial";
+font-size: 13pt;color:#333c87;
+font-style:italic;
+text-decoration:underline;
+font-weight:normal;
+}
+img.de_780D01ADE8
+{
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
+img.de_D7A9C94272
+{
+margin-top: 8px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_242B796E43
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_266B990BB3
+{
+	color:#4984b6;
+}
+span.de_2B94C39861
+{
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_2F115CE907
+{
+	color:#3785c8;
+}
+span.de_3C1E69B513
+{
+	font-family: "Calibri-Light";
+	font-size: 22pt;
+	color:#00b050;
+}
+span.de_3F6709D3E9
+{
+	font-family: "Calibri-Light";
+	font-size: 22pt;
+	color:#ff3600;
+}
+span.de_4CD179DA38
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_51752156DC
+{
+	color:#000000;
+}
+span.de_5C0A9D681A
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#3f3f3f;
+}
+span.de_5D25B0B4EF
+{
+	font-family: "Verdana";
+	font-size: 10pt;
+	color:#000000;
+}
+span.de_6257F1EBBB
+{
+	font-family: "Verdana";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_6B7F0857AE
+{
+	font-family: "Calibri";
+	font-size: 14pt;
+	color:#000000;
+}
+span.de_76F6071ABB
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#000000;
+	font-style:italic;
+}
+span.de_7DA749E402
+{
+	font-family: "Calibri-Light";
+	font-size: 22pt;
+	color:#000000;
+	text-decoration:underline;
+}
+span.de_7DCF5D2EBC
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#ff003c;
+}
+span.de_7EA41EC2FA
+{
+	font-size: 16pt;
+}
+span.de_80BEB310C8
+{
+	font-family: "Symbol";
+	font-size: 10pt;
+	color:#000000;
+}
+span.de_80D5251288
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#0000ff;
+}
+span.de_823826CA2C
+{
+	font-style:italic;
+}
+span.de_9071FA71FF
+{
+	font-family: "Verdana";
+	font-size: 10pt;
+	color:#0000ff;
+}
+span.de_B261420348
+{
+	font-size: 14pt;
+}
+span.de_BAC5F7F063
+{
+	font-size: 20pt;
+}
+span.de_C631E76B45
+{
+	font-family: "Verdana";
+	font-size: 9pt;
+	color:#282828;
+}
+span.de_CC7DAF531E
+{
+	font-family: "Arial";
+	font-size: 10pt;
+	color:#000000;
+}
+span.de_D305498EDE
+{
+	font-family: "Symbol";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_DA9789FEFC
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#000000;
+}
+span.de_E3D5CBE0E8
+{
+	font-family: "Symbol";
+	font-size: 11pt;
+	color:#ff3600;
+}
+span.de_E5CD1D7E42
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#7f7f7f;
+}
+span.de_E69E0AB2E1
+{
+	font-family: "Calibri-Light";
+	font-size: 22pt;
+	color:#000000;
+}
+span.de_EE3C152407
+{
+	font-family: "Segoe UI";
+	font-size: 11pt;
+	color:#ff3600;
+}
+span.de_F48AB3BAE1
+{
+	font-family: "Century Gothic";
+	font-size: 9pt;
+	color:#000000;
+}
+span.de_FE04B87F3C
+{
+	font-family: "Arial";
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
+}
+.list-element {
+	list-style-type: none;
+}
+.list-counter-0 > div > * {
+	text-indent: 0px;}
+.list-counter-0 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-0, disc) '\00a0';
+	counter-increment: list-counter-0;
+}
+.list-counter-0 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-1 > div > * {
+	text-indent: 0px;}
+.list-counter-1 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-1, disc) '\00a0';
+	counter-increment: list-counter-1;
+}
+.list-counter-1 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-2 > div > * {
+	text-indent: 0px;}
+.list-counter-2 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-2, decimal) '.\00a0';
+	counter-increment: list-counter-2;
+}
+.list-counter-2 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-3 > div > * {
+	text-indent: 0px;}
+.list-counter-3 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-3, disc) '\00a0';
+	counter-increment: list-counter-3;
+}
+.list-counter-3 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-4 > div > * {
+	text-indent: 0px;}
+.list-counter-4 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-4, decimal) '.\00a0';
+	counter-increment: list-counter-4;
+}
+.list-counter-4 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-5 > div > * {
+	text-indent: 0px;}
+.list-counter-5 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-5, disc) '\00a0';
+	counter-increment: list-counter-5;
+}
+.list-counter-5 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-6 > div > * {
+	text-indent: 0px;}
+.list-counter-6 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-6, decimal) '.\00a0';
+	counter-increment: list-counter-6;
+}
+.list-counter-6 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-7 > div > * {
+	text-indent: 0px;}
+.list-counter-7 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-7, disc) '\00a0';
+	counter-increment: list-counter-7;
+}
+.list-counter-7 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-8 > div > * {
+	text-indent: 0px;}
+.list-counter-8 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-8, decimal) '.\00a0';
+	counter-increment: list-counter-8;
+}
+.list-counter-8 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-9 > div > * {
+	text-indent: 0px;}
+.list-counter-9 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-9, disc) '\00a0';
+	counter-increment: list-counter-9;
+}
+.list-counter-9 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-10 > div > * {
+	text-indent: 0px;}
+.list-counter-10 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-10, disc) '\00a0';
+	counter-increment: list-counter-10;
+}
+.list-counter-10 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-11 > div > * {
+	text-indent: 0px;}
+.list-counter-11 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-11, disc) '\00a0';
+	counter-increment: list-counter-11;
+}
+.list-counter-11 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-12 > div > * {
+	text-indent: 0px;}
+.list-counter-12 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-12, disc) '\00a0';
+	counter-increment: list-counter-12;
+}
+.list-counter-12 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
